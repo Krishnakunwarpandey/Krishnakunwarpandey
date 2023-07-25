@@ -13,6 +13,11 @@ public class TypeCast {
 		long l =i;
 		System.out.println(l);
 		System.out.println("=====");
+		// short to float
+		short sh=65;
+		float f=sh;
+		System.out.println(f);
+		System.out.println("=====");
 		// int to double
 		int i1 =30;
 		double d=i1;
