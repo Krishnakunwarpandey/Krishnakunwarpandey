@@ -11,6 +11,8 @@ public static void main(String[] args) {
 	case 'o':
 	case 'u':
 	case 'A':
+	case 'E':
+	case 'I':		
 	case 'O':
 	case 'U':
 	{
