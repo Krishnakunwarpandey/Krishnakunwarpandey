@@ -53,14 +53,7 @@ public class S1 {
 		String d7=sc.next();
 		
 		System.out.println(d7);
-		
-		System.out.println("enter multivalue string ");
-		
-		String d8=sc.nextLine();
-		
-		System.out.println(d8);
-		
-		
+				
 		
 		
 		
