@@ -1,29 +1,27 @@
-package Basics;
+package method;
 
 public class Demo {
 	public static void main(String[] args) {
-		byte d1 =127;
-		System.out.println(d1);
-		short d2 = 568;
-		System.out.println(d2);
-		int d3 =5687;
-		System.out.println(d3);
-		long d4 =589657;
-		float d5 = 10.10f;
-		System.out.println(d5);
-		double d6 =100.200;
-		System.out.println(d6);
-		char d7 ='k';
-		System.out.println(d7);
-		String d8 = "Krishna is learning java";
-		System.out.println(d8);
-		boolean d9 =true;
-		System.out.println(d9);
 		
+		System.out.println("main start");
+		m1();
+		m2();
+		m3();
 		
+		System.out.println("main end");
 		
-				
-		
+	}
+	public static void m1()
+	{
+		System.out.println("m1 is executing");
+	}
+	public static void m2()
+	{
+		System.out.println("m2 is execution");
+	}
+	public static void m3()
+	{
+		System.out.println("m3 is execution");
 	}
 
 }
